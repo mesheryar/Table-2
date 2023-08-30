@@ -1,0 +1,8 @@
+.th th{
+	background-color: black;
+	color: red;
+}
+.td td{
+	background-color: black;
+	color: lightgreen;
+}
